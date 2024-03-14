@@ -10,7 +10,7 @@ Please set links to the existing documents.
 
 Please place files under each WAFID folder.
 File Name: "DocumentName.md"
-![image](readme.svg)
+![image](readme.png)
 ## Appendix
 
 Link to the additional files, etc.
