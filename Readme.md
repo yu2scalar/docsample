@@ -4,13 +4,19 @@
 
 Please set links to the existing documents.
 
-## Overview
-
 ## Description
 
-Please place files under each WAFID folder.
-File Name: "DocumentName.md"
-![image](readme.png)
-## Appendix
+### Background
+Explain the background why this implementation is essential.
 
-Link to the additional files, etc.
+### Implementation steps
+Explain exact steps and provide specific parameters
+
+### Other notes
+If users need to pay attention to some exceptions, please write a comment.
+
+## Resources
+### Related documents
+
+## Appendix
+additional files, etc.
