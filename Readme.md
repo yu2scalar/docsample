@@ -3,6 +3,9 @@
 ## References
 
 Please set links to the existing documents.
+https://scalardb.scalar-labs.com/docs/latest/helm-charts/getting-started-monitoring/
+https://scalardb.scalar-labs.com/docs/latest/helm-charts/getting-started-logging/
+
 
 ## Description
 
