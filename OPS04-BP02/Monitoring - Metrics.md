@@ -1,4 +1,4 @@
-# OPS04-BP02 アプリケーションテレメトリーを実装する - Monitoring
+# OPS04-BP02 アプリケーションテレメトリーを実装する
 
 ## References
 

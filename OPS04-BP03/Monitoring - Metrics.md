@@ -1,4 +1,4 @@
-# OPS04-BP04 依存関係のテレメトリーを実装する - Monitoring
+# OPS04-BP04 依存関係のテレメトリーを実装する
 
 ## References
 
