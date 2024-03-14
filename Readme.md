@@ -8,7 +8,8 @@ Please set links to the existing documents.
 
 ## Description
 
-Please place files under each WAFID folder as below:
+Please place files under each WAFID folder.
+File Name: <<WAFID>> - <<TASK NAME>>
 ![image](readme.svg)
 ## Appendix
 
