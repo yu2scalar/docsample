@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram id="PEeWEDdolTTNKrOSYRV0" name="Page-1">
+        <mxGraphModel dx="938" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Repo root" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#CCCBCB;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="90" width="50" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="WAFID&lt;br&gt;&lt;span style=&quot;background-color: rgb(24, 20, 29); font-size: 10px;&quot;&gt;e.g.&amp;nbsp;&lt;span id=&quot;docs-internal-guid-610fddde-7fff-ebfe-f720-821e0e02a50b&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Noto Sans JP&amp;quot;, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;OPS05-BP05 &lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder;fillColor=#CCCBCB;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="160" width="50" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="100" y="310" as="sourcePoint"/>
+                        <mxPoint x="150" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="149" width="50" height="67" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="230" width="50" height="67" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="310" width="50" height="67" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3" target="7">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="170" y="122.5" as="sourcePoint"/>
+                        <mxPoint x="200" y="192.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" source="3" target="8">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="250" y="192.5" as="sourcePoint"/>
+                        <mxPoint x="340" y="183.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" source="3" target="9">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="250" y="192.5" as="sourcePoint"/>
+                        <mxPoint x="400" y="233.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="&lt;br&gt;&lt;b id=&quot;docs-internal-guid-cab37ac6-7fff-4b6a-d3a9-6e296733cf67&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Noto Sans JP&amp;quot;, sans-serif; color: rgb(16, 22, 37); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;OPS05-BP05 - Configuration - Parameter guide&lt;/span&gt;&lt;/p&gt;&lt;/b&gt;" style="text;strokeColor=none;align=left;fillColor=#FFFFFF;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="175" width="460" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;span style=&quot;background-color: transparent; color: rgb(16, 22, 37); font-family: &amp;quot;Noto Sans JP&amp;quot;, sans-serif; font-size: 14pt;&quot;&gt;OPS05-BP05 - Deployment - Deployment guide&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=#FFFFFF;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="250" width="460" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;span style=&quot;background-color: transparent; color: rgb(16, 22, 37); font-family: &amp;quot;Noto Sans JP&amp;quot;, sans-serif; font-size: 14pt;&quot;&gt;OPS05-BP05 - Development - Developer guide&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=#FFFFFF;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="331" width="460" height="25" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
