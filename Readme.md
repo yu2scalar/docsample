@@ -8,7 +8,7 @@ Please set links to the existing documents.
 
 ## Description
 
-Please place files as below6:
+Please place files under each WAFID folder as below:
 ![image](readme.svg)
 ## Appendix
 
